@@ -26,7 +26,7 @@ This is a simple personal portfolio website built with HTML5 and CSS3. It is des
 
 ## How to View
 
-You can view the website by visiting the following [link](#). 
+You can view the website by visiting the following [https://vishaanthaditya.github.io/Portfolio-simple/index.html]. 
 
 ## Contribution
 
